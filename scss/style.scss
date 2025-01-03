@@ -22,3 +22,8 @@ $font-family-sans-serif-secondary: 'Montserrat', sans-serif;
 @import 'components/site-base';
 @import 'components/site-blocks';
 @import 'components/site-footer';
+
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
